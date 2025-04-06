@@ -49,10 +49,10 @@ if __name__ == "__main__":
             with tabs[0]:
 
                 st.subheader("🎬 Demonstration Video (Coming Soon!)")
-                # st.video("demo_placeholder.mp4")  # Replace with actual file later or use a YouTube URL
+                st.video("data/pdf_extractor.mp4")  # Replace with actual file later or use a YouTube URL
 
             # --- TAB 2: Extracted Results ---
-            with tabs[2]:
+            with tabs[1]:
 
                 convert_type = st.radio("Choose Conversion Type:", ["Convert to JSON", "Convert to Markdown"])
 
