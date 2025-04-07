@@ -27,19 +27,19 @@ if __name__ == "__main__":
         - 🔧 Extract text or images from PDFs  
         - 📑 Convert to structured JSON or Markdown  
         - 🖼️ View and download images  
-        - 🎥 Watch a video demo (coming soon)  
+        - 🎥 Watch a video demo
         """)
 
         st.subheader("> Data Modalities")
         extract_text = st.checkbox("Extract Text", value=True)
         extract_images = st.checkbox("Extract Images")
-        extract_tables = st.checkbox("Extract Tables (coming soon)", disabled=True)
+        extract_tables = st.checkbox("Extract Tables", disabled=True)
 
     tabs = st.tabs(["🎬 Demo Video", "🧾 Document Extraction Application"])
 
     with tabs[0]:
 
-        st.subheader("🎬 Demonstration Video (Coming Soon!)")
+        st.subheader("🎬 Demonstration Video")
         st.video("data/pdf_extractor.mp4")  # Replace with actual file later or use a YouTube URL
 
 
