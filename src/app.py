@@ -40,7 +40,7 @@ if __name__ == "__main__":
     with tabs[0]:
 
         st.subheader("🎬 Demonstration Video")
-        st.video("data/pdf_extractor.mp4")  # Replace with actual file later or use a YouTube URL
+        st.video("data/doc_parser.mp4")
 
 
     with tabs[1]:
