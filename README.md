@@ -16,5 +16,5 @@ This Streamlit app allows you to upload a PDF, extract text, images, and metadat
 
 ### Application Demo:
 
-[![Video](https://img.youtube.com/vi/WDnNjQt2J9Y/maxresdefault.jpg)](https://youtu.be/WDnNjQt2J9Y)
+[![Video](https://img.youtube.com/vi/XFfAS7NJs3k/maxresdefault.jpg)](https://youtu.be/XFfAS7NJs3k)
 
